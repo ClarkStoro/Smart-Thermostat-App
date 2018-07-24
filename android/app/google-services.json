@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "239848887422",
+    "firebase_url": "https://termostatocopia-9e0f8.firebaseio.com",
+    "project_id": "termostatocopia-9e0f8",
+    "storage_bucket": "termostatocopia-9e0f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239848887422:android:17ba7578e2e6612b",
+        "android_client_info": {
+          "package_name": "com.thermostat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239848887422-m71q91ak02k4u42aspvis0qnl1n691dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAytb1YOY_8-TKb4nIXEMTQjq4UxD0ZVvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239848887422:android:d11ad5439ed63929",
+        "android_client_info": {
+          "package_name": "com.termostato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239848887422-m71q91ak02k4u42aspvis0qnl1n691dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAytb1YOY_8-TKb4nIXEMTQjq4UxD0ZVvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
